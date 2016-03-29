@@ -1,0 +1,12 @@
+.wrapper{
+	width: 50%;
+	margin: 30px auto;
+}
+
+.cell{
+	height: 20px;
+	width: 20px;
+	border:1px solid #666;
+	margin: 0px 2px auto;
+	display: inline-block;
+}
